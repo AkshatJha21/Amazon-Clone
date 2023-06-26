@@ -1,0 +1,18 @@
+.orders {
+    margin: 10px;
+    padding: 10px;
+}
+
+.orders > h1 {
+    font-size: 28px;
+    color: green;
+    margin-bottom: 10px;
+}
+
+.orders__continueShopping {
+    margin: 20px 5px;
+}
+
+.orders__moreProducts {
+    display: flex;
+} 
